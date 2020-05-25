@@ -18,14 +18,6 @@ Note that I am not a specialist, and these implementations come from research pa
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
-
-The code was written on Python 
-
-```
-Give examples
-```
-
 ### Installing
 
 1. Clone repo
