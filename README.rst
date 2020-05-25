@@ -2,18 +2,44 @@
 meta_analysis
 =============
 
-
-Add a short description here!
-
-
-Description
-===========
-
-A longer description of your project goes here...
+Python package containing some useful functions when running a meta-analysis.
 
 
-Note
-====
+I wrapped some functions that were useful when publishing a meta-analysis in neuroscience, during my time in Amsterdam as a researcher.
+I though it could be useful for other folks.
 
-This project has been set up using PyScaffold 3.2.3. For details and usage
-information on PyScaffold see https://pyscaffold.org/.
+Check out thist post for a walk through.
+
+https://juls-dotcom.github.io/meta_analysis.html
+
+Note that I am not a specialist, and these implementations come from research papers. Be critical and double check my work :)
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+### Prerequisites
+
+The code was written on Python 
+
+```
+Give examples
+```
+
+### Installing
+
+1. Clone repo
+2. "python setup.py develop"
+
+## Contributing
+
+Feel free to use the code as you wish best. Feedback on improvement possibility is always welcome :)
+
+## Authors
+
+* **Julien Hernandez Lallement**
+
+
+## Acknowledgments
+
+* Maria Carrillo, with whom this project was performed
